@@ -1,6 +1,6 @@
 html{
     background-image: url("sfondo.avif") ;
-    background-repeat:inherit;
+    background-size: cover;
 }
 
 #container{
